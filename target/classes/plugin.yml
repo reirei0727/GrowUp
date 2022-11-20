@@ -1,0 +1,4 @@
+name: GrowUp
+version: '1.0-SNAPSHOT'
+main: growup.growup.GrowUp
+api-version: 1.19

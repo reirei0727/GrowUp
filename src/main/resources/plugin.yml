@@ -1,0 +1,4 @@
+name: GrowUp
+version: '${project.version}'
+main: growup.growup.GrowUp
+api-version: 1.19
